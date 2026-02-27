@@ -92,9 +92,8 @@ public class TestSort {
     }
 }
 ```
-## OUTPUT:
-
-![output](Experiment-5/Exp-5a.png)
+output :
+![output of Experiment-5](Exp-5a.png)
 
 
 
@@ -144,12 +143,8 @@ public class TestVehicle {
 }
 ```
 
-## OUTPUT:
-
-
-
-![output](Experiment-5/Exp-5b.png)
-
+output :
+![output of Experiment-5](Exp-5b.png)
 
 
 
@@ -172,9 +167,6 @@ public class DeleteStringBuffer {
 }
 ```
 
-## OUTPUT:
-
-
-
-![output](Experiment-5/Exp-5c.png)
+output :
+![output of Experiment-5](Exp-5c.png)
 
